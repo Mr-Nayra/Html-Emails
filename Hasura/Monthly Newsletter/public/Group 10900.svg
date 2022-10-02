@@ -1,0 +1,33 @@
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="24" cy="24" r="24" fill="#002278"/>
+<mask id="mask0_2188_750" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="48" height="48">
+<circle cx="24" cy="24" r="24" fill="#FFB320"/>
+</mask>
+<g mask="url(#mask0_2188_750)">
+<path d="M21.3355 13.8048L36.5791 -1.47903L29.261 20.4129L48.3546 30.4044L27.8326 29.6187L19.9606 49.7183L18.3177 26.4738L-1.92803 33.3151L15.402 18.6371L7.78157 0.743081L21.3355 13.8048Z" fill="#2C64F4"/>
+<path d="M27.3141 14.4648L52.434 12.0613L29.5269 26.3232L39.276 49.5524L21.3792 33.5495L-0.691013 45.7843L15.1538 23.6256L-8.17869 14.6974L18.3687 14.3945L24.8424 -7.40069L27.3141 14.4648Z" fill="url(#paint0_radial_2188_750)"/>
+<path d="M16.126 18.6562C16.2851 18.8153 16.4157 19.0056 16.5947 19.125" stroke="#0088C1" stroke-width="0.3" stroke-linecap="round"/>
+<path d="M38.5322 16.4062C38.4323 16.6185 38.3242 16.8429 38.251 17.0625" stroke="#0088C1" stroke-width="0.3" stroke-linecap="round"/>
+<path d="M31.9697 16.0312V16.3125" stroke="#0088C1" stroke-width="0.3" stroke-linecap="round"/>
+<path d="M28.0322 32.1562C28.1316 32.268 28.1373 32.4076 28.2197 32.5312" stroke="#0088C1" stroke-width="0.3" stroke-linecap="round"/>
+<path d="M22.126 31.7812C22.0595 31.7729 21.9967 31.7166 21.9385 31.6875" stroke="#0088C1" stroke-width="0.3" stroke-linecap="round"/>
+<path d="M13.501 34.5938C13.7237 34.5492 13.9546 34.3201 14.1572 34.2188" stroke="#0088C1" stroke-width="0.3" stroke-linecap="round"/>
+<path d="M14.251 29.625H14.626" stroke="#0088C1" stroke-width="0.3" stroke-linecap="round"/>
+<path d="M24.001 8.15625C24.0206 8.3132 24.0947 8.43206 24.0947 8.625" stroke="#0088C1" stroke-width="0.3" stroke-linecap="round"/>
+<path d="M23.8135 22.9688C23.715 22.9811 23.5694 23.082 23.5322 23.1562" stroke="#0088C1" stroke-width="0.3" stroke-linecap="round"/>
+<path d="M7.68848 38.1562L7.87598 37.9688" stroke="#0088C1" stroke-width="0.3" stroke-linecap="round"/>
+<path d="M8.62598 19.0312C8.42392 19.0312 8.25691 18.9859 8.06348 18.9375" stroke="#0088C1" stroke-width="0.3" stroke-linecap="round"/>
+<path d="M30.751 40.5938C30.8373 40.6705 30.9368 40.7336 31.0322 40.7812" stroke="#0088C1" stroke-width="0.3" stroke-linecap="round"/>
+<path d="M13.2197 7.59375L15.1885 9.5625" stroke="#FFC960" stroke-width="0.75" stroke-linecap="round"/>
+<path d="M36.4697 28.5C37.6363 29.1952 38.7888 29.8421 40.0322 30.375" stroke="#FFC960" stroke-width="0.75" stroke-linecap="round"/>
+<path d="M31.3159 10.2598C32.0486 9.31613 32.8149 8.20862 33.7471 7.45906" stroke="#FFC960" stroke-width="0.75" stroke-linecap="round"/>
+<path d="M21.376 44.25C21.2039 42.9498 21.1885 41.6236 21.1885 40.3125" stroke="#FFC960" stroke-width="0.75" stroke-linecap="round"/>
+<path d="M4.58691 27.4999C5.51441 27.172 6.47737 26.8316 7.4154 26.5" stroke="#FFC960" stroke-width="0.75" stroke-linecap="round"/>
+</g>
+<defs>
+<radialGradient id="paint0_radial_2188_750" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(8.25 38.25) rotate(-40.0303) scale(48.9745 47.3143)">
+<stop stop-color="#00B0EF"/>
+<stop offset="1" stop-color="#37D1DB"/>
+</radialGradient>
+</defs>
+</svg>
